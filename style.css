@@ -8,5 +8,8 @@
 .container {
     display: flex;
     background-color: #232127;
-    
+}
+
+.footer-links {
+    text-decoration: none;
 }
